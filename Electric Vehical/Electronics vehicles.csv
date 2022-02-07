@@ -1,0 +1,221 @@
+Title,Subtitle,Battery,Weight,Plug Type,Number of Seats,Acceleration,Top Speed,Car Range,Efficiency,Fastcharge
+Tesla Model 3 ,Battery Electric Vehicle ,57.5 kWh *,1000,Type 2 CCS,5,6.1 sec,225 km/h,380 km,151 Wh/km,590 km/h
+Dacia Spring Electric,Battery Electric Vehicle ,26.8 kWh *,,Type 2 CCS,4,15.0 sec,125 km/h,170 km,158 Wh/km,170 km/h
+Kia EV6 GT,Battery Electric Vehicle ,72.5 kWh *,1600,Type 2 CCS,5,3.5 sec,260 km/h,360 km,201 Wh/km,940 km/h
+Hyundai IONIQ 5 Long Range AWD,Battery Electric Vehicle ,70 kWh *,1600,Type 2 CCS,5,5.2 sec,185 km/h,370 km,189 Wh/km,910 km/h
+Tesla Model 3 Long Range Dual Motor,Battery Electric Vehicle ,75 kWh *,1000,Type 2 CCS,5,4.4 sec,233 km/h,485 km,155 Wh/km,670 km/h
+BMW i4 eDrive40,Battery Electric Vehicle ,80.7 kWh,1600,Type 2 CCS,5,5.7 sec,190 km/h,475 km,170 Wh/km,660 km/h
+Nissan Leaf ,Battery Electric Vehicle ,37 kWh *,,N/A,5,7.9 sec,144 km/h,225 km,164 Wh/km,230 km/h
+Kia EV6 Long Range 2WD,Battery Electric Vehicle ,72.5 kWh *,1600,Type 2 CCS,5,7.3 sec,185 km/h,400 km,181 Wh/km,1050 km/h
+Skoda Enyaq iV 80,Battery Electric Vehicle ,77 kWh,1000,Type 2 CCS,5,8.6 sec,160 km/h,420 km,183 Wh/km,530 km/h
+BMW iX xDrive50,Battery Electric Vehicle ,105.2 kWh,2500,Type 2 CCS,5,4.6 sec,200 km/h,505 km,208 Wh/km,620 km/h
+Mercedes EQS 450+,Battery Electric Vehicle ,107.8 kWh,750,Type 2 CCS,5,6.2 sec,210 km/h,640 km,168 Wh/km,840 km/h
+Hyundai IONIQ Electric,Battery Electric Vehicle ,38.3 kWh,,Type 2 CCS,5,9.7 sec,165 km/h,250 km,153 Wh/km,220 km/h
+Hyundai Kona Electric 64 kWh,Battery Electric Vehicle ,64 kWh,100,Type 2 CCS,5,7.9 sec,167 km/h,395 km,162 Wh/km,370 km/h
+Volkswagen e-Up! ,Battery Electric Vehicle ,32.3 kWh,,Type 2 CCS,4,11.9 sec,130 km/h,205 km,158 Wh/km,170 km/h
+Mercedes EQA 250,Battery Electric Vehicle ,66.5 kWh,750,Type 2 CCS,5,8.9 sec,160 km/h,355 km,187 Wh/km,510 km/h
+Tesla Model Y Long Range Dual Motor,Battery Electric Vehicle ,75 kWh *,1600,Type 2 CCS,5,5.0 sec,217 km/h,435 km,172 Wh/km,600 km/h
+Mercedes EQE 350,Battery Electric Vehicle ,90 kWh,,Type 2 CCS,5,6.0 sec,160 km/h,535 km,168 Wh/km,680 km/h
+Audi Q4 e-tron 40,Battery Electric Vehicle ,76.6 kWh,1000,Type 2 CCS,5,8.5 sec,160 km/h,405 km,189 Wh/km,510 km/h
+BMW i3 120 Ah,Battery Electric Vehicle ,37.9 kWh,,Type 2 CCS,4,7.3 sec,150 km/h,235 km,161 Wh/km,270 km/h
+Tesla Model S Plaid,Battery Electric Vehicle ,95 kWh *,,N/A,5,2.1 sec,322 km/h,560 km,170 Wh/km,780 km/h
+Aiways U5 ,Battery Electric Vehicle ,63 kWh *,1500,Type 2 CCS,5,7.5 sec,150 km/h,330 km,191 Wh/km,340 km/h
+Honda e ,Battery Electric Vehicle ,28.5 kWh *,,Type 2 CCS,4,9.0 sec,145 km/h,170 km,168 Wh/km,190 km/h
+Kia EV6 Long Range AWD,Battery Electric Vehicle ,72.5 kWh *,1600,Type 2 CCS,5,5.2 sec,185 km/h,390 km,186 Wh/km,1020 km/h
+Renault Megane E-Tech EV60 220hp,Battery Electric Vehicle ,60 kWh *,900,Type 2 CCS,5,7.4 sec,160 km/h,360 km,167 Wh/km,520 km/h
+Hyundai IONIQ 5 Long Range 2WD,Battery Electric Vehicle ,70 kWh *,1600,Type 2 CCS,5,7.4 sec,185 km/h,380 km,184 Wh/km,930 km/h
+BMW iX xDrive40,Battery Electric Vehicle ,71 kWh,2500,Type 2 CCS,5,6.1 sec,200 km/h,350 km,203 Wh/km,470 km/h
+Polestar 2 Long Range Dual Motor,Battery Electric Vehicle ,75 kWh,1500,Type 2 CCS,5,4.7 sec,205 km/h,395 km,190 Wh/km,510 km/h
+BMW i4 M50,Battery Electric Vehicle ,80.7 kWh,1600,Type 2 CCS,5,3.9 sec,225 km/h,450 km,179 Wh/km,630 km/h
+Volkswagen ID.4 Pro Performance,Battery Electric Vehicle ,77 kWh,1000,Type 2 CCS,5,8.5 sec,160 km/h,410 km,188 Wh/km,520 km/h
+Audi e-tron 55 quattro,Battery Electric Vehicle ,86.5 kWh,1800,Type 2 CCS,5,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h
+Mercedes EQS 580 4MATIC,Battery Electric Vehicle ,107.8 kWh,750,Type 2 CCS,5,4.3 sec,210 km/h,610 km,177 Wh/km,800 km/h
+Renault Zoe ZE50 R110,Battery Electric Vehicle ,52 kWh,,Type 2 CCS,5,11.4 sec,135 km/h,315 km,165 Wh/km,230 km/h
+Audi e-tron GT RS,Battery Electric Vehicle ,85 kWh,,Type 2 CCS,4,3.3 sec,250 km/h,405 km,210 Wh/km,1000 km/h
+Kia e-Niro 64 kWh,Battery Electric Vehicle ,64 kWh,,Type 2 CCS,5,7.8 sec,167 km/h,370 km,173 Wh/km,350 km/h
+Lightyear One ,Battery Electric Vehicle ,60 kWh *,,Type 2 CCS,5,10.0 sec,150 km/h,575 km,104 Wh/km,540 km/h
+Nissan Ariya 87kWh,Battery Electric Vehicle ,87 kWh,1500,Type 2 CCS,5,7.6 sec,160 km/h,445 km,196 Wh/km,530 km/h
+Skoda Enyaq iV 60,Battery Electric Vehicle ,58 kWh,1000,Type 2 CCS,5,8.7 sec,160 km/h,330 km,176 Wh/km,460 km/h
+MG ZS EV Long Range,Battery Electric Vehicle ,68.3 kWh,500,Type 2 CCS,5,8.4 sec,175 km/h,370 km,185 Wh/km,360 km/h
+Audi e-tron 50 quattro,Battery Electric Vehicle ,64.7 kWh,1800,Type 2 CCS,5,6.8 sec,190 km/h,280 km,231 Wh/km,470 km/h
+Tesla Model S Long Range,Battery Electric Vehicle ,95 kWh *,,N/A,5,3.2 sec,250 km/h,585 km,162 Wh/km,810 km/h
+Audi Q4 e-tron 35,Battery Electric Vehicle ,52 kWh,0,Type 2 CCS,5,9.0 sec,160 km/h,285 km,182 Wh/km,360 km/h
+Mercedes EQC 400 4MATIC,Battery Electric Vehicle ,80 kWh,1800,Type 2 CCS,5,5.1 sec,180 km/h,370 km,216 Wh/km,440 km/h
+Mazda MX-30 ,Battery Electric Vehicle ,30 kWh *,,Type 2 CCS,5,9.7 sec,140 km/h,170 km,176 Wh/km,180 km/h
+CUPRA Born 150 kW - 58 kWh,Battery Electric Vehicle ,58 kWh,,Type 2 CCS,5,7.3 sec,160 km/h,350 km,166 Wh/km,490 km/h
+Fiat 500e Hatchback 42 kWh,Battery Electric Vehicle ,37.3 kWh,,Type 2 CCS,4,9.0 sec,150 km/h,235 km,159 Wh/km,390 km/h
+Nissan Leaf e+,Battery Electric Vehicle ,56 kWh *,,N/A,5,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h
+Ford Mustang Mach-E GT,Battery Electric Vehicle ,88 kWh,750,Type 2 CCS,5,4.4 sec,200 km/h,410 km,215 Wh/km,400 km/h
+Porsche Taycan Turbo S,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,2.8 sec,260 km/h,400 km,209 Wh/km,880 km/h
+Volkswagen ID.4 GTX,Battery Electric Vehicle ,77 kWh,1200,Type 2 CCS,5,6.2 sec,180 km/h,400 km,193 Wh/km,500 km/h
+Tesla Model Y Performance,Battery Electric Vehicle ,75 kWh *,,Type 2 CCS,5,3.7 sec,250 km/h,415 km,181 Wh/km,580 km/h
+Skoda Enyaq iV 50,Battery Electric Vehicle ,52 kWh,,Type 2 CCS,5,11.3 sec,160 km/h,295 km,176 Wh/km,240 km/h
+Skoda Enyaq iV 80x,Battery Electric Vehicle ,77 kWh,1200,Type 2 CCS,5,6.9 sec,160 km/h,400 km,193 Wh/km,500 km/h
+Volkswagen ID.3 Pro,Battery Electric Vehicle ,58 kWh,,Type 2 CCS,5,9.6 sec,160 km/h,350 km,166 Wh/km,490 km/h
+Polestar 2 Long Range Single Motor,Battery Electric Vehicle ,75 kWh,1500,Type 2 CCS,5,7.4 sec,160 km/h,425 km,176 Wh/km,550 km/h
+Peugeot e-208 ,Battery Electric Vehicle ,45 kWh *,,Type 2 CCS,5,8.1 sec,150 km/h,285 km,158 Wh/km,460 km/h
+Skoda Enyaq iV RS,Battery Electric Vehicle ,77 kWh,1200,Type 2 CCS,5,6.2 sec,180 km/h,385 km,200 Wh/km,530 km/h
+Ford Mustang Mach-E ER AWD,Battery Electric Vehicle ,88 kWh,750,Type 2 CCS,5,5.8 sec,180 km/h,420 km,210 Wh/km,410 km/h
+Subaru Solterra AWD,Battery Electric Vehicle ,71.4 kWh *,,Type 2 CCS,5,7.7 sec,160 km/h,375 km,190 Wh/km,490 km/h
+Ford Mustang Mach-E ER RWD,Battery Electric Vehicle ,88 kWh,750,Type 2 CCS,5,7.0 sec,180 km/h,440 km,200 Wh/km,430 km/h
+Toyota bZ4X AWD,Battery Electric Vehicle ,71.4 kWh *,,Type 2 CCS,5,7.7 sec,160 km/h,375 km,190 Wh/km,490 km/h
+Volvo C40 Recharge,Battery Electric Vehicle ,75 kWh,1800,Type 2 CCS,5,4.7 sec,180 km/h,340 km,221 Wh/km,440 km/h
+BMW iX3 ,Battery Electric Vehicle ,74 kWh,750,Type 2 CCS,5,6.8 sec,180 km/h,385 km,192 Wh/km,520 km/h
+Volkswagen ID.5 GTX,Battery Electric Vehicle ,77 kWh,1200,Type 2 CCS,5,6.3 sec,180 km/h,405 km,190 Wh/km,540 km/h
+Volvo XC40 Recharge Pure Electric,Battery Electric Vehicle ,67 kWh,1500,Type 2 CCS,5,7.4 sec,160 km/h,315 km,213 Wh/km,400 km/h
+CUPRA Born 170 kW - 77 kWh,Battery Electric Vehicle ,77 kWh,,Type 2 CCS,5,7.0 sec,160 km/h,450 km,171 Wh/km,570 km/h
+Renault Twingo Electric,Battery Electric Vehicle ,21.3 kWh,,N/A,4,12.6 sec,135 km/h,130 km,164 Wh/km,-
+MG Marvel R Performance,Battery Electric Vehicle ,65 kWh *,750,Type 2 CCS,5,4.9 sec,200 km/h,330 km,197 Wh/km,390 km/h
+Kia EV6 Standard Range 2WD,Battery Electric Vehicle ,54 kWh *,750,Type 2 CCS,5,8.5 sec,185 km/h,305 km,177 Wh/km,750 km/h
+Jaguar I-Pace EV400,Battery Electric Vehicle ,84.7 kWh,750,Type 2 CCS,5,4.8 sec,200 km/h,380 km,223 Wh/km,360 km/h
+Mercedes EQB 350 4MATIC,Battery Electric Vehicle ,66.5 kWh,,Type 2 CCS,7,6.2 sec,160 km/h,335 km,199 Wh/km,400 km/h
+Toyota bZ4X FWD,Battery Electric Vehicle ,71.4 kWh *,,Type 2 CCS,5,8.4 sec,160 km/h,380 km,188 Wh/km,490 km/h
+MG MG5 Electric,Battery Electric Vehicle ,57 kWh *,500,Type 2 CCS,5,8.3 sec,180 km/h,340 km,168 Wh/km,340 km/h
+Peugeot e-2008 SUV ,Battery Electric Vehicle ,45 kWh *,,Type 2 CCS,5,8.5 sec,150 km/h,255 km,176 Wh/km,410 km/h
+Hyundai IONIQ 5 Standard Range 2WD,Battery Electric Vehicle ,54 kWh *,750,Type 2 CCS,5,8.5 sec,185 km/h,295 km,183 Wh/km,720 km/h
+Opel Corsa-e ,Battery Electric Vehicle ,45 kWh *,,Type 2 CCS,5,8.1 sec,150 km/h,285 km,158 Wh/km,460 km/h
+Volvo XC40 Recharge Twin Pure Electric,Battery Electric Vehicle ,75 kWh,1800,Type 2 CCS,5,4.9 sec,180 km/h,340 km,221 Wh/km,440 km/h
+Mercedes EQA 350 4MATIC,Battery Electric Vehicle ,66.5 kWh,1800,Type 2 CCS,5,6.0 sec,160 km/h,350 km,190 Wh/km,500 km/h
+Skoda Enyaq Coupe iV 80,Battery Electric Vehicle ,77 kWh,1000,Type 2 CCS,5,8.7 sec,160 km/h,455 km,169 Wh/km,630 km/h
+Citroen e-C4 ,Battery Electric Vehicle ,45 kWh *,,Type 2 CCS,5,9.7 sec,150 km/h,265 km,170 Wh/km,420 km/h
+Lexus UX 300e,Battery Electric Vehicle ,45 kWh *,,N/A,5,7.5 sec,160 km/h,235 km,191 Wh/km,150 km/h
+Volkswagen ID.3 Pro S - 5 Seats,Battery Electric Vehicle ,77 kWh,,Type 2 CCS,5,7.9 sec,160 km/h,450 km,171 Wh/km,570 km/h
+Tesla Model 3 Performance,Battery Electric Vehicle ,75 kWh *,,Type 2 CCS,5,3.3 sec,261 km/h,460 km,163 Wh/km,640 km/h
+Lucid Air Grand Touring,Battery Electric Vehicle ,105 kWh *,,Type 2 CCS,5,3.2 sec,270 km/h,630 km,167 Wh/km,1390 km/h
+Opel Mokka-e ,Battery Electric Vehicle ,45 kWh *,,Type 2 CCS,5,9.2 sec,150 km/h,255 km,176 Wh/km,410 km/h
+Lucid Air Pure,Battery Electric Vehicle ,85 kWh *,,Type 2 CCS,5,4.2 sec,200 km/h,540 km,157 Wh/km,1410 km/h
+Seres 3 ,Battery Electric Vehicle ,52 kWh *,,Type 2 CCS,5,8.9 sec,155 km/h,270 km,193 Wh/km,390 km/h
+Audi Q4 e-tron 50 quattro,Battery Electric Vehicle ,76.6 kWh,1200,Type 2 CCS,5,6.2 sec,180 km/h,385 km,199 Wh/km,490 km/h
+Tesla Model X Plaid,Battery Electric Vehicle ,95 kWh *,2250,N/A,7,2.6 sec,262 km/h,465 km,204 Wh/km,650 km/h
+Mercedes EQS AMG 53 4MATIC+,Battery Electric Vehicle ,107.8 kWh,,Type 2 CCS,5,3.4 sec,250 km/h,565 km,191 Wh/km,740 km/h
+Audi Q4 Sportback e-tron 40,Battery Electric Vehicle ,76.6 kWh,1000,Type 2 CCS,5,8.5 sec,160 km/h,425 km,180 Wh/km,540 km/h
+Renault Zoe ZE50 R135,Battery Electric Vehicle ,52 kWh,,Type 2 CCS,5,9.5 sec,140 km/h,310 km,168 Wh/km,230 km/h
+Polestar 2 Standard Range Single Motor,Battery Electric Vehicle ,61 kWh,1500,Type 2 CCS,5,7.4 sec,160 km/h,350 km,174 Wh/km,430 km/h
+Renault Zoe ZE40 R110,Battery Electric Vehicle ,41 kWh,,Type 2 CCS,5,11.4 sec,135 km/h,255 km,161 Wh/km,230 km/h
+Ford Mustang Mach-E SR RWD,Battery Electric Vehicle ,68 kWh,750,Type 2 CCS,5,6.9 sec,180 km/h,345 km,197 Wh/km,380 km/h
+Mini Cooper SE ,Battery Electric Vehicle ,28.9 kWh,,Type 2 CCS,4,7.3 sec,150 km/h,185 km,156 Wh/km,260 km/h
+BMW iX M60,Battery Electric Vehicle ,105.2 kWh,2500,Type 2 CCS,5,3.8 sec,250 km/h,485 km,217 Wh/km,590 km/h
+Hyundai Kona Electric 39 kWh,Battery Electric Vehicle ,39.2 kWh,,Type 2 CCS,5,9.9 sec,155 km/h,250 km,157 Wh/km,210 km/h
+Volkswagen ID.3 Pro Performance,Battery Electric Vehicle ,58 kWh,,Type 2 CCS,5,7.3 sec,160 km/h,350 km,166 Wh/km,490 km/h
+Tesla Model X Long Range,Battery Electric Vehicle ,95 kWh *,2250,N/A,7,3.9 sec,250 km/h,490 km,194 Wh/km,680 km/h
+MG ZS EV Standard Range,Battery Electric Vehicle ,49 kWh,500,Type 2 CCS,5,8.6 sec,175 km/h,270 km,181 Wh/km,260 km/h
+Audi Q4 Sportback e-tron 50 quattro,Battery Electric Vehicle ,76.6 kWh,1200,Type 2 CCS,5,6.2 sec,180 km/h,400 km,192 Wh/km,500 km/h
+Volkswagen ID.5 Pro Performance,Battery Electric Vehicle ,77 kWh,1000,Type 2 CCS,5,8.4 sec,160 km/h,430 km,179 Wh/km,540 km/h
+Audi e-tron GT quattro,Battery Electric Vehicle ,85 kWh,,Type 2 CCS,4,4.1 sec,245 km/h,420 km,202 Wh/km,1030 km/h
+Volkswagen ID.3 Pure Performance,Battery Electric Vehicle ,45 kWh,,Type 2 CCS,5,8.9 sec,160 km/h,275 km,164 Wh/km,410 km/h
+Renault Megane E-Tech EV60 130hp,Battery Electric Vehicle ,60 kWh *,,Type 2 CCS,5,10.0 sec,160 km/h,365 km,164 Wh/km,520 km/h
+BMW i3s 120 Ah,Battery Electric Vehicle ,37.9 kWh,,Type 2 CCS,4,6.9 sec,160 km/h,230 km,165 Wh/km,260 km/h
+Mercedes EQV 300 Long,Battery Electric Vehicle ,90 kWh,,Type 2 CCS,7,12.1 sec,160 km/h,305 km,295 Wh/km,310 km/h
+Mercedes EQB 300 4MATIC,Battery Electric Vehicle ,66.5 kWh,,Type 2 CCS,7,8.0 sec,160 km/h,335 km,199 Wh/km,400 km/h
+Fiat 500e Hatchback 24 kWh,Battery Electric Vehicle ,21.3 kWh,,Type 2 CCS,4,9.5 sec,135 km/h,135 km,158 Wh/km,230 km/h
+Volkswagen ID.3 Pro S - 4 Seats,Battery Electric Vehicle ,77 kWh,,Type 2 CCS,4,7.9 sec,160 km/h,450 km,171 Wh/km,570 km/h
+Renault Kangoo Maxi ZE 33,Battery Electric Vehicle ,31 kWh *,,N/A,5,22.4 sec,130 km/h,160 km,194 Wh/km,-
+Kia e-Soul 64 kWh,Battery Electric Vehicle ,64 kWh,300,Type 2 CCS,5,7.9 sec,167 km/h,370 km,173 Wh/km,350 km/h
+Volkswagen ID.4 Pro,Battery Electric Vehicle ,77 kWh,1000,Type 2 CCS,5,10.4 sec,160 km/h,410 km,188 Wh/km,520 km/h
+Volkswagen ID.5 Pro,Battery Electric Vehicle ,77 kWh,1000,Type 2 CCS,5,10.4 sec,160 km/h,430 km,179 Wh/km,540 km/h
+MG MG5 EV,Battery Electric Vehicle ,48.8 kWh,,Type 2 CCS,5,7.7 sec,185 km/h,295 km,165 Wh/km,340 km/h
+SsangYong Korando e-Motion,Battery Electric Vehicle ,56 kWh *,1500,Type 2 CCS,5,8.5 sec,156 km/h,290 km,193 Wh/km,290 km/h
+Porsche Taycan 4S,Battery Electric Vehicle ,71 kWh,,Type 2 CCS,4,4.0 sec,250 km/h,395 km,180 Wh/km,790 km/h
+Audi e-tron S 55 quattro,Battery Electric Vehicle ,86.5 kWh,1800,Type 2 CCS,5,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h
+Mercedes EQA 300 4MATIC,Battery Electric Vehicle ,66.5 kWh,1800,Type 2 CCS,5,7.7 sec,160 km/h,350 km,190 Wh/km,500 km/h
+Renault Megane E-Tech EV40 130hp,Battery Electric Vehicle ,40 kWh *,,Type 2 CCS,5,10.0 sec,160 km/h,245 km,163 Wh/km,350 km/h
+Mercedes EQS 350,Battery Electric Vehicle ,90.6 kWh,750,Type 2 CCS,5,6.6 sec,210 km/h,545 km,166 Wh/km,690 km/h
+Volkswagen ID.4 Pure,Battery Electric Vehicle ,52 kWh,1000,Type 2 CCS,5,10.9 sec,160 km/h,285 km,182 Wh/km,360 km/h
+Skoda Enyaq Coupe iV RS,Battery Electric Vehicle ,77 kWh,1200,Type 2 CCS,5,6.5 sec,180 km/h,410 km,188 Wh/km,570 km/h
+Audi e-tron Sportback 55 quattro,Battery Electric Vehicle ,86.5 kWh,1800,Type 2 CCS,5,5.7 sec,200 km/h,375 km,231 Wh/km,600 km/h
+Porsche Taycan 4 Cross Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,5.1 sec,220 km/h,425 km,197 Wh/km,930 km/h
+Porsche Taycan Plus,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,5.4 sec,230 km/h,475 km,176 Wh/km,1050 km/h
+Porsche Taycan GTS,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,3.7 sec,250 km/h,450 km,186 Wh/km,990 km/h
+Fiat 500e 3+1,Battery Electric Vehicle ,37.3 kWh,,Type 2 CCS,4,9.0 sec,150 km/h,235 km,159 Wh/km,390 km/h
+Porsche Taycan ,Battery Electric Vehicle ,71 kWh,,Type 2 CCS,4,5.4 sec,230 km/h,410 km,173 Wh/km,820 km/h
+Nissan Ariya 63kWh,Battery Electric Vehicle ,63 kWh,1500,Type 2 CCS,5,7.5 sec,160 km/h,335 km,188 Wh/km,450 km/h
+Sono Sion ,Battery Electric Vehicle ,47 kWh *,750,Type 2 CCS,5,9.0 sec,140 km/h,260 km,181 Wh/km,310 km/h
+Skoda Enyaq Coupe iV 80x,Battery Electric Vehicle ,77 kWh,1200,Type 2 CCS,5,7.0 sec,160 km/h,430 km,179 Wh/km,600 km/h
+Smart EQ forfour ,Battery Electric Vehicle ,16.7 kWh *,,N/A,4,12.7 sec,130 km/h,95 km,176 Wh/km,-
+Volkswagen ID.4 Pure Performance,Battery Electric Vehicle ,52 kWh,1000,Type 2 CCS,5,9.0 sec,160 km/h,285 km,182 Wh/km,360 km/h
+Honda e Advance,Battery Electric Vehicle ,28.5 kWh *,,Type 2 CCS,4,8.3 sec,145 km/h,170 km,168 Wh/km,190 km/h
+MG MG5 EV Long Range,Battery Electric Vehicle ,57 kWh *,,Type 2 CCS,5,7.7 sec,185 km/h,340 km,168 Wh/km,340 km/h
+MG Marvel R ,Battery Electric Vehicle ,65 kWh *,750,Type 2 CCS,5,7.9 sec,200 km/h,340 km,191 Wh/km,400 km/h
+Fiat 500e Cabrio,Battery Electric Vehicle ,37.3 kWh,,Type 2 CCS,4,9.0 sec,150 km/h,230 km,162 Wh/km,380 km/h
+Ford Mustang Mach-E SR AWD,Battery Electric Vehicle ,68 kWh,750,Type 2 CCS,5,6.3 sec,180 km/h,330 km,206 Wh/km,360 km/h
+Audi Q4 e-tron 45 quattro,Battery Electric Vehicle ,76.6 kWh,1200,Type 2 CCS,5,6.9 sec,180 km/h,385 km,199 Wh/km,490 km/h
+Peugeot e-Expert Combi Long 75 kWh,Battery Electric Vehicle ,68 kWh *,1000,Type 2 CCS,9,14.3 sec,130 km/h,260 km,262 Wh/km,280 km/h
+Kia e-Niro 39 kWh,Battery Electric Vehicle ,39.2 kWh,,Type 2 CCS,5,9.8 sec,155 km/h,235 km,167 Wh/km,230 km/h
+CUPRA Born 110 kW - 45 kWh,Battery Electric Vehicle ,45 kWh,,Type 2 CCS,5,8.9 sec,160 km/h,275 km,164 Wh/km,410 km/h
+Smart EQ fortwo coupe,Battery Electric Vehicle ,16.7 kWh *,,N/A,2,11.6 sec,130 km/h,100 km,167 Wh/km,-
+Porsche Taycan 4S Plus,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,4.0 sec,250 km/h,460 km,182 Wh/km,1010 km/h
+Lucid Air Touring,Battery Electric Vehicle ,85 kWh *,,Type 2 CCS,5,3.4 sec,250 km/h,530 km,160 Wh/km,1390 km/h
+Audi e-tron S Sportback 55 quattro,Battery Electric Vehicle ,86.5 kWh,1800,Type 2 CCS,5,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h
+Hyundai IONIQ 5 Standard Range AWD,Battery Electric Vehicle ,54 kWh *,,Type 2 CCS,5,6.1 sec,185 km/h,290 km,186 Wh/km,710 km/h
+Audi e-tron 55 quattro,Battery Electric Vehicle ,86.5 kWh,1800,Type 2 CCS,5,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h
+DS 3 Crossback E-Tense,Battery Electric Vehicle ,45 kWh *,,Type 2 CCS,5,8.7 sec,150 km/h,260 km,173 Wh/km,420 km/h
+Audi Q4 Sportback e-tron 35,Battery Electric Vehicle ,52 kWh,0,Type 2 CCS,5,9.0 sec,160 km/h,295 km,176 Wh/km,370 km/h
+Nissan Ariya e-4ORCE 87kWh,Battery Electric Vehicle ,87 kWh,1500,Type 2 CCS,5,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h
+Porsche Taycan Turbo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,3.2 sec,260 km/h,415 km,202 Wh/km,910 km/h
+Skoda Enyaq Coupe iV 60,Battery Electric Vehicle ,58 kWh,1000,Type 2 CCS,5,8.8 sec,160 km/h,345 km,168 Wh/km,480 km/h
+Audi e-tron Sportback 50 quattro,Battery Electric Vehicle ,64.7 kWh,1800,Type 2 CCS,5,6.8 sec,190 km/h,295 km,219 Wh/km,490 km/h
+Citroen e-Berlingo M 50 kWh,Battery Electric Vehicle ,45 kWh *,750,Type 2 CCS,5,11.7 sec,135 km/h,200 km,225 Wh/km,320 km/h
+JAC iEV7s ,Battery Electric Vehicle ,39 kWh,,Type 2 CCS,5,12.0 sec,132 km/h,225 km,173 Wh/km,160 km/h
+Kia e-Soul 39 kWh,Battery Electric Vehicle ,39.2 kWh,,Type 2 CCS,5,9.9 sec,157 km/h,230 km,170 Wh/km,220 km/h
+Mercedes eVito Tourer Long 90 kWh,Battery Electric Vehicle ,90 kWh,,Type 2 CCS,9,12.0 sec,160 km/h,310 km,290 Wh/km,310 km/h
+Toyota PROACE Verso M 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,8,13.1 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Porsche Taycan Turbo S Cross Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,2.9 sec,250 km/h,385 km,217 Wh/km,850 km/h
+Porsche Taycan Turbo S Sport Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,2.8 sec,260 km/h,395 km,212 Wh/km,870 km/h
+Peugeot e-Traveller Standard 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,13.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Porsche Taycan Plus Sport Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,5.4 sec,230 km/h,445 km,188 Wh/km,980 km/h
+Audi e-tron Sportback 55 quattro,Battery Electric Vehicle ,86.5 kWh,1800,Type 2 CCS,5,5.7 sec,200 km/h,375 km,231 Wh/km,600 km/h
+Peugeot e-Rifter Standard 50 kWh,Battery Electric Vehicle ,45 kWh *,750,Type 2 CCS,7,11.7 sec,135 km/h,200 km,225 Wh/km,320 km/h
+Nissan Ariya e-4ORCE 87kWh Performance,Battery Electric Vehicle ,87 kWh,1500,Type 2 CCS,5,5.1 sec,200 km/h,385 km,226 Wh/km,460 km/h
+Mercedes EQV 300 Extra-Long,Battery Electric Vehicle ,90 kWh,,Type 2 CCS,7,12.1 sec,160 km/h,305 km,295 Wh/km,310 km/h
+Citroen e-SpaceTourer M 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Porsche Taycan GTS Sport Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,3.7 sec,250 km/h,425 km,197 Wh/km,930 km/h
+CUPRA Born 170 kW - 58 kWh,Battery Electric Vehicle ,58 kWh,,Type 2 CCS,5,6.6 sec,160 km/h,345 km,168 Wh/km,480 km/h
+Peugeot e-Rifter Long 50 kWh,Battery Electric Vehicle ,45 kWh *,750,Type 2 CCS,7,11.7 sec,135 km/h,195 km,231 Wh/km,310 km/h
+Porsche Taycan 4S Plus Sport Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,4.0 sec,250 km/h,430 km,195 Wh/km,950 km/h
+Porsche Taycan Sport Turismo,Battery Electric Vehicle ,71 kWh,,Type 2 CCS,4,5.4 sec,230 km/h,380 km,187 Wh/km,760 km/h
+Opel Combo-e Life 50 kWh,Battery Electric Vehicle ,45 kWh *,750,Type 2 CCS,7,11.7 sec,135 km/h,200 km,225 Wh/km,320 km/h
+Mercedes eVito Tourer Extra-Long 90 kWh,Battery Electric Vehicle ,90 kWh,,Type 2 CCS,9,12.0 sec,160 km/h,305 km,295 Wh/km,310 km/h
+Porsche Taycan 4S Cross Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,4.1 sec,240 km/h,425 km,197 Wh/km,930 km/h
+Peugeot e-Traveller Long 75 kWh,Battery Electric Vehicle ,68 kWh *,1000,Type 2 CCS,9,14.3 sec,130 km/h,260 km,262 Wh/km,280 km/h
+Opel Zafira-e Life L 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.3 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Mercedes eVito Tourer Long 60 kWh,Battery Electric Vehicle ,60 kWh,,Type 2 CCS,9,12.0 sec,160 km/h,210 km,286 Wh/km,310 km/h
+Peugeot e-Expert Combi Standard 75 kWh,Battery Electric Vehicle ,68 kWh *,1000,Type 2 CCS,9,14.3 sec,130 km/h,265 km,257 Wh/km,290 km/h
+Citroen e-Berlingo XL 50 kWh,Battery Electric Vehicle ,45 kWh *,750,Type 2 CCS,7,11.7 sec,135 km/h,195 km,231 Wh/km,310 km/h
+Smart EQ fortwo cabrio,Battery Electric Vehicle ,16.7 kWh *,,N/A,2,11.9 sec,130 km/h,95 km,176 Wh/km,-
+Citroen e-SpaceTourer M 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.3 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Mercedes eVito Tourer Extra-Long 60 kWh,Battery Electric Vehicle ,60 kWh,,Type 2 CCS,9,12.0 sec,160 km/h,205 km,293 Wh/km,300 km/h
+Porsche Taycan Turbo Sport Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,3.2 sec,260 km/h,405 km,207 Wh/km,890 km/h
+Citroen e-Jumpy Combi M 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.3 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Peugeot e-Traveller Standard 75 kWh,Battery Electric Vehicle ,68 kWh *,1000,Type 2 CCS,9,14.3 sec,130 km/h,265 km,257 Wh/km,290 km/h
+Citroen e-SpaceTourer XL 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.3 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Opel Vivaro-e Combi M 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.3 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Porsche Taycan 4S Sport Turismo,Battery Electric Vehicle ,71 kWh,,Type 2 CCS,4,4.0 sec,250 km/h,370 km,192 Wh/km,740 km/h
+Toyota PROACE Shuttle L 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.1 sec,130 km/h,245 km,265 Wh/km,280 km/h
+Mercedes EQV 250 Long,Battery Electric Vehicle ,60 kWh,,Type 2 CCS,7,12.0 sec,160 km/h,205 km,293 Wh/km,190 km/h
+Opel Combo-e Life XL 50 kWh,Battery Electric Vehicle ,45 kWh *,750,Type 2 CCS,7,11.7 sec,135 km/h,195 km,231 Wh/km,310 km/h
+Citroen e-Jumpy Combi M 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Porsche Taycan Turbo Cross Turismo,Battery Electric Vehicle ,83.7 kWh,,Type 2 CCS,4,3.3 sec,250 km/h,400 km,209 Wh/km,880 km/h
+Mercedes EQV 250 Extra-Long,Battery Electric Vehicle ,60 kWh,,Type 2 CCS,7,12.0 sec,160 km/h,205 km,293 Wh/km,190 km/h
+Toyota PROACE Shuttle M 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Toyota PROACE Verso L 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,8,13.1 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Peugeot e-Expert Combi Long 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,13.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Toyota PROACE Shuttle M 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.1 sec,130 km/h,245 km,265 Wh/km,280 km/h
+Opel Zafira-e Life L 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Citroen e-Jumpy Combi XL 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.3 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Toyota PROACE Shuttle L 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Citroen e-Jumpy Combi XL 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Peugeot e-Expert Combi Compact 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Opel Vivaro-e Combi L 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Citroen e-Jumpy Combi XS 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Opel Vivaro-e Combi L 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.3 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Peugeot e-Expert Combi Standard 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,13.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Opel Zafira-e Life M 75 kWh,Battery Electric Vehicle ,65 kWh *,1000,Type 2 CCS,9,13.3 sec,130 km/h,250 km,260 Wh/km,290 km/h
+Toyota PROACE Verso L 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,8,12.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Toyota PROACE Verso M 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,8,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Opel Vivaro-e Combi M 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Peugeot e-Traveller Long 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,13.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Peugeot e-Traveller Compact 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Citroen e-SpaceTourer XS 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Citroen e-SpaceTourer XL 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,175 km,257 Wh/km,280 km/h
+Opel Zafira-e Life M 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
+Opel Zafira-e Life S 50 kWh,Battery Electric Vehicle ,45 kWh *,1000,Type 2 CCS,9,12.1 sec,130 km/h,180 km,250 Wh/km,290 km/h
