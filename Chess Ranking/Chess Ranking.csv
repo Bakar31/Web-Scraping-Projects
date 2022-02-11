@@ -1,0 +1,357 @@
+Rank,Name,Classical,Rapid,Blitz
+#1,GM Magnus Carlsen,2865,2847,2832
+#2,GM Alireza Firouzja,2804,2670,2791
+#3,GM Ding Liren,2799,2836,2788
+#4,GM Fabiano Caruana,2792,2784,2744
+#5,GM Ian Nepomniachtchi,2773,2821,2740
+#6,GM Wesley So,2772,2782,2814
+#7,GM Anish Giri,2772,2744,2766
+#8,GM Levon Aronian,2772,2719,2773
+#9,GM Shakhriyar Mamedyarov,2767,2722,2769
+#10,GM Alexander Grischuk,2764,2759,2762
+#11,GM Richard Rapport,2763,2779,2646
+#12,GM Maxime Vachier-Lagrave,2761,2743,2813
+#13,GM Jan-Krzysztof Duda,2760,2806,2760
+#14,GM Teimour Radjabov,2753,2747,2705
+#15,GM Leinier Dominguez Perez,2752,2722,2728
+#16,GM Viswanathan Anand,2751,2675,2758
+#17,GM Wang Hao,2744,2750,2712
+#18,GM Sergey Karjakin,2743,2736,2611
+#19,GM Hikaru Nakamura,2736,2823,2850
+#20,GM Veselin Topalov,2730,2627,2667
+#21,GM Wei Yi,2729,2752,2686
+#22,GM Vidit Santosh Gujrathi,2727,2617,2654
+#23,GM Nikita Vitiugov,2726,2580,2673
+#24,GM Dmitry Andreikin,2724,2661,2736
+#25,GM Daniil Dubov,2720,2712,2791
+#26,GM Pentala Harikrishna,2719,2624,2574
+#27,GM Andrey Esipenko,2714,2679,2617
+#28,GM Yu Yangyi,2713,2738,2808
+#29,GM Le Quang Liem,2709,2660,2686
+#30,GM Samuel Shankland,2708,2625,2618
+#31,GM Evgeny Tomashevsky,2708,2631,2695
+#32,GM Francisco Vallejo Pons,2704,2682,2644
+#33,GM Vladimir Fedoseev,2704,2739,2726
+#34,GM Alexei Shirov,2704,2614,2664
+#35,GM Kirill Alekseenko,2702,2639,2682
+#36,GM Jorden van Foreest,2702,2645,2609
+#37,GM Parham Maghsoodloo,2701,2631,2630
+#38,GM Vladislav Artemiev,2700,2682,2799
+#39,GM Bu Xiangzhi,2700,2642,2760
+#40,GM Michael Adams,2698,2651,2742
+#41,GM David Navara,2697,2701,2686
+#42,GM Matthew D Sadler,2694,2673,2646
+#43,GM Anton Korobov,2693,2677,2633
+#44,GM David Anton Guijarro,2691,2633,2584
+#45,GM Saleh Salem,2690,2621,2657
+#46,GM Radoslaw Wojtaszek,2686,2702,2610
+#47,GM Jeffery Xiong,2686,2729,2727
+#48,GM Alexey Sarana,2685,2667,2665
+#49,GM Sam Sevian,2684,2586,2698
+#50,GM Yuriy Kryvoruchko,2683,2697,2594
+#51,GM Peter Svidler,2683,2752,2725
+#52,GM Pavel Eljanov,2683,2653,2601
+#53,GM Alexandr Predke,2682,2601,2614
+#54,GM Bassem Amin,2682,2538,2699
+#55,GM Dmitry Jakovenko,2682,2684,2625
+#56,GM Grigoriy Oparin,2681,2634,2685
+#57,GM Gabriel Sargissian,2681,2639,2561
+#58,GM Andrei Volokitin,2681,2659,2505
+#59,GM Sanan Sjugirov,2680,2578,2602
+#60,GM Bogdan-Daniel Deac,2679,2556,2646
+#61,GM Li Chao,2679,2645,2693
+#62,GM Vasyl Ivanchuk,2678,2686,2710
+#63,GM Ivan Saric,2678,2645,2550
+#64,GM Zoltan Almasi,2678,2599,2585
+#66,GM Ray Robson,2676,2605,2683
+#67,GM Maxim Matlakov,2674,2650,2661
+#68,GM Illya Nyzhnyk,2674,2658,2694
+#69,GM Ivan Cheparinov,2672,2652,2622
+#70,GM Nils Grandelius,2672,2652,2617
+#71,GM Gawain Jones,2671,2630,2657
+#72,GM Alexander Areshchenko,2670,2588,2627
+#73,GM Wang Yue,2669,2710,2666
+#74,GM Boris Gelfand,2669,2635,2649
+#75,GM Ni Hua,2668,2647,2579
+#76,GM Vincent Keymer,2664,2542,2557
+#77,GM Peter Leko,2663,2710,2738
+#78,GM Gadir Guseinov,2661,2692,2581
+#79,GM Evgeniy Najer,2661,2590,2562
+#80,GM Aryan Tari,2660,2531,2567
+#81,GM Ferenc Berkes,2660,2637,2676
+#82,GM Alexander Morozevich,2659,2651,2636
+#83,GM Rustam Kasimdzhanov,2659,2698,2681
+#84,GM Ernesto Inarkiev,2659,2678,2639
+#85,GM Hou Yifan,2658,2621,2601
+#86,GM Gata Kamsky,2657,2717,2645
+#87,GM Dariusz Swiercz,2656,2649,2627
+#88,GM Rauf Mamedov,2656,2584,2666
+#89,GM Markus Ragger,2656,2630,2541
+#90,GM Nihal Sarin,2656,2604,2705
+#91,GM Anton Demchenko,2654,2547,2539
+#92,GM Vladimir Malakhov,2652,2670,2654
+#93,GM Liviu-Dieter Nisipeanu,2652,2636,2637
+#94,GM Kirill Shevchenko,2652,2573,2624
+#95,GM Nodirbek Abdusattorov,2651,2670,2663
+#96,GM Krishnan Sasikiran,2650,2577,2572
+#97,GM Jorge Cori,2650,2604,2588
+#98,GM Hrant Melkumyan,2649,2686,2604
+#99,GM Arkadij Naiditsch,2648,2571,2577
+#100,GM Baskaran Adhiban,2648,2548,2648
+#101,GM Luke McShane,2647,2702,2591
+#102,GM David Howell,2646,2604,2559
+#103,GM Valery Salov,2644,0,0
+#104,GM Robert Hovhannisyan,2643,2630,2570
+#105,GM Sandro Mareco,2643,2553,2546
+#106,GM Hans Moke Niemann,2642,2529,2632
+#107,GM Etienne Bacrot,2642,2720,2673
+#108,GM Matthias Bluebaum,2642,2587,2550
+#109,GM Kacper Piorun,2641,2524,2571
+#110,GM Pavel Ponkratov,2641,2527,2487
+#111,GM Alexander Onischuk,2640,2693,2650
+#112,GM Aleksandr Rakhmanov,2640,2633,2500
+#113,GM Jaime Santos Latasa,2640,2593,2617
+#114,GM Yuriy Kuzubov,2639,2643,2548
+#115,GM Shant Sargsyan,2639,2477,2600
+#116,GM Sergei Rublevsky,2637,2661,2608
+#117,GM Rasmus Svane,2637,2651,2645
+#118,GM Zurab Azmaiparashvili,2637,2619,2608
+#119,GM Manuel Petrosyan,2637,2547,2592
+#120,GM Alexander Donchenko,2636,2571,2539
+#121,GM Ruslan Ponomariov,2636,2673,2605
+#122,GM Dmitrij Kollars,2635,2455,2584
+#123,GM Alexander Motylev,2633,2701,2470
+#124,GM Haik M Martirosyan,2633,2478,2735
+#125,GM Arjun Erigaisi,2633,2450,2745
+#126,GM Samvel Ter-Sahakyan,2632,2530,2592
+#127,GM Rinat Jumabayev,2631,2534,2561
+#128,GM Maksim Chigaev,2631,2548,2502
+#129,GM Evgeny Bareev,2631,2659,2678
+#130,GM Nodirbek Yakubboev,2630,2425,2470
+#131,GM Jules Moussard,2630,2666,2557
+#132,GM Nijat Abasov,2630,2567,2528
+#133,GM Mustafa Yilmaz,2627,2502,2568
+#134,GM Surya Shekhar Ganguly,2627,2646,2531
+#135,GM Maxime Lagarde,2626,2688,2622
+#136,GM Alan Pichot,2625,2525,2579
+#137,GM Emil Sutovsky,2624,2598,2516
+#138,GM Benjamin Bok,2624,2608,2658
+#139,GM Vladislav Kovalev,2623,2505,2530
+#140,GM Yaroslav Zherebukh,2623,2620,2520
+#141,GM Mohammad Amin Tabatabaei,2623,2425,2544
+#142,GM Aleksey Dreev,2623,2589,2636
+#143,GM Erwin l'Ami,2622,2647,2676
+#144,GM Vladimir Akopian,2622,2668,2641
+#145,GM Pouya Idani,2621,2509,2610
+#146,GM Yasser Seirawan,2620,2647,2523
+#147,GM Constantin Lupulescu,2620,2623,2557
+#148,GM Cristobal Henriquez Villagra,2620,2568,2556
+#149,GM S P Sethuraman,2619,2556,2473
+#150,GM Peter Heine Nielsen,2618,2669,2546
+#151,GM Lazaro Bruzon Batista,2618,2619,2709
+#152,GM David Paravyan,2617,2636,2569
+#153,GM Raunak Sadhwani,2616,2524,2616
+#154,GM Daniel Naroditsky,2616,2639,2608
+#155,GM Mateusz Bartel,2616,2497,2526
+#156,GM Neuris Delgado Ramirez,2615,2671,2627
+#157,GM Mikhail Al Antipov,2615,2593,2512
+#158,GM Vasif Durarbayli,2615,2473,2528
+#159,GM Gukesh D,2614,2223,2598
+#160,GM Daniele Vocaturo,2614,2584,2565
+#161,GM Thai Dai Van Nguyen,2613,2462,2483
+#162,GM Awonder Liang,2613,2397,2379
+#163,GM Jon Ludvig Hammer,2613,2647,2607
+#164,GM Viktor Erdos,2613,2511,2555
+#165,GM Praggnanandhaa R,2612,1927,2599
+#166,GM Loek van Wely,2612,2552,2545
+#167,GM Vladimir Onischuk,2612,2661,2642
+#168,GM Aravindh Chithambaram,2611,2572,2561
+#169,GM Aleksandra Goryachkina,2610,2473,2426
+#170,GM Javokhir Sindarov,2609,2425,2630
+#171,GM Alexander Khalifman,2608,2522,0
+#172,GM Velimir Ivic,2607,2437,2610
+#173,GM Max Warmerdam,2607,2412,2537
+#174,GM Ante Brkic,2607,2597,2602
+#175,GM Sergei Movsesian,2606,2616,2584
+#176,GM Eric Hansen,2606,2579,2568
+#177,GM Aleksandar Indjic,2604,2516,2616
+#178,GM Oleksandr Bortnyk,2604,2643,2723
+#179,GM Vahap Sanal,2601,2539,2603
+#180,GM Aram Hakobyan,2601,2476,2557
+#181,GM Anton Smirnov,2600,2367,2647
+#182,GM Varuzhan Akobian,2600,2639,2634
+#183,GM Aleksandr Lenderman,2600,2646,2651
+#184,GM Vadim Zvjaginsev,2599,2488,2601
+#185,GM Ivan Ivanisevic,2599,2567,2495
+#186,GM Martyn Kravtsiv,2598,2675,2694
+#187,GM Jose Eduardo Martinez Alcantara,2598,2645,2690
+#188,GM Ahmed Adly,2596,2546,2650
+#189,GM Axel Bachmann,2594,2618,2587
+#190,GM Romain Edouard,2591,2623,2521
+#191,GM Robert Hess,2591,2621,2557
+#192,GM Evgeny Alekseev,2589,2620,2589
+#193,GM Baadur Jobava,2588,2664,2617
+#194,GM Arik Braun,2587,2611,2535
+#195,GM Humpy Koneru,2586,2467,2472
+#196,GM Viorel Iordachescu,2585,2586,2537
+#197,GM Zhou Jianchao,2585,2570,2478
+#198,GM Luis Paulo Supi,2581,2513,2369
+#199,GM Arturs Neiksans,2577,2555,2447
+#200,GM Robert Huebner,2574,2575,0
+#201,GM John M Burke,2573,0,0
+#202,GM John Nunn,2568,2536,2490
+#203,GM Kiril Georgiev,2564,2643,2539
+#204,GM Krikor Sevag Mekhitarian,2562,2586,2598
+#205,GM Ju Wenjun,2560,2610,2536
+#206,GM Artur Yusupov,2559,2520,2500
+#207,GM Simen Agdestein,2557,2522,2532
+#208,GM Gregory Kaidanov,2556,0,0
+#209,GM Henrique Mecking,2553,2593,2587
+#210,GM Kateryna Lagno,2550,2531,2522
+#211,GM Paulius Pultinevicius,2546,2512,2413
+#212,GM Daniel Dardha,2541,2481,2482
+#213,GM Mariya Muzychuk,2539,2477,2328
+#214,GM Viktorija Cmilyte,2538,2394,2435
+#215,GM Shamsiddin Vokhidov,2536,2504,2611
+#216,GM Lei Tingjie,2535,2527,2530
+#217,GM Jan H Timman,2533,2472,2501
+#218,GM Nicolas D Checa,2533,2272,2526
+#219,GM Anna Muzychuk,2531,2458,2460
+#220,GM Nana Dzagnidze,2531,2463,2367
+#221,IM Aydin Suleymanli,2530,2297,2481
+#222,GM Tan Zhongyi,2525,2513,2510
+#223,GM Gregory Serper,2522,0,0
+#224,GM Alexander G Beliavsky,2518,2631,0
+#225,GM Harika Dronavalli,2517,2475,2382
+#226,IM Polina Shuvalova,2516,2407,2355
+#227,GM Alexandra Kosteniuk,2516,2542,2469
+#228,GM Ulf Andersson,2516,2493,2467
+#229,IM Christopher Noe,2515,2427,2533
+#230,IM Christopher Woojin Yoo,2514,1861,2105
+#231,IM Tuan Minh Le,2514,2307,2450
+#232,GM Luka Budisavljevic,2511,2195,2381
+#233,GM Andrew Tang,2508,2383,2584
+#234,GM Abhimanyu Mishra,2505,0,1682
+#235,GM Marc Andria Maurizzi,2502,2186,2186
+#236,GM Maia Chiburdanidze,2500,2432,2437
+#237,GM Ivan Morovic Fernandez,2498,2578,2498
+#238,GM Eugene Perelshteyn,2494,0,0
+#239,GM Nino Batsiashvili,2491,2345,2230
+#240,GM Zhansaya Abdumalik,2491,2448,2413
+#241,IM Alina Kashlinskaya,2490,2288,2330
+#242,IM Sarasadat Khademalsharieh,2488,2411,2431
+#243,GM Zhao Xue,2486,2442,2407
+#244,GM Bela Khotenashvili,2485,2387,2320
+#245,IM Lela Javakhishvili,2479,2346,2367
+#246,WGM Zhu Jin'er,2478,2326,2281
+#247,GM Igor Glek,2476,2427,2215
+#248,IM Greg Shahade,2476,2476,0
+#249,IM Denis Lazavik,2472,2360,2437
+#250,WGM Natalia Pogonina,2472,2499,2313
+#251,GM Valentina Gunina,2471,2510,2465
+#252,IM Gunay Mammadzada,2470,2277,2242
+#253,GM Lajos Portisch,2467,2426,0
+#254,GM Jacob Aagaard,2465,2502,2509
+#255,IM Joshua Waitzkin,2464,0,0
+#256,GM Simon Williams,2464,2497,2468
+#257,GM Marie Sebag,2460,2430,2482
+#258,GM Pontus Carlsson,2457,2382,2392
+#259,GM Aman Hambleton,2454,2450,2552
+#260,IM Olga Badelka,2453,2217,2165
+#261,GM Pia Cramling,2452,2396,2320
+#262,IM Roven Vogel,2452,2506,2516
+#263,GM Alex Yermolinsky,2448,2520,2508
+#264,Benjamin Finegold,2446,0,2501
+#265,IM Dinara Saduakassova,2446,2434,2404
+#266,GM Antoaneta Stefanova,2445,2438,2426
+#267,IM Batkhuyag Munguntuul,2443,2364,2391
+#268,GM Elina Danielian,2441,2330,2218
+#269,GM Maurice Ashley,2440,0,0
+#270,IM Bibisara Assaubayeva,2434,2396,2404
+#271,WGM Huang Qian,2433,2464,2311
+#272,IM Iulija Osmak,2432,2273,2302
+#273,IM Meri Arabidze,2432,2356,2329
+#274,GM Yuri S Balashov,2431,2369,2305
+#275,WGM Wang Jue,2426,2421,2378
+#276,GM Anna Ushenina,2423,2371,2395
+#277,IM Ana Matnadze,2423,2355,2425
+#278,WGM Ding Yixin,2422,2349,2313
+#279,GM Irina Krush,2421,2392,2342
+#280,IM Alisa Galliamova,2421,2356,2412
+#281,IM Olga Alexandrova,2420,2406,2408
+#282,IM Carissa Yip,2418,2393,1708
+#283,GM Niaz Murshed,2418,2496,2442
+#284,IM Ekaterina Atalik,2415,2385,2180
+#285,GM Oleg M Romanishin,2415,2414,2387
+#286,WGM Jolanta Zawadzka,2414,2197,2140
+#287,IM Guo Qi,2406,2446,2338
+#288,IM Anna Zatonskih,2405,2295,2329
+#289,WGM Olga Girya,2405,2297,2275
+#290,WGM Vaishali R,2403,2273,2343
+#291,IM Danny Rensch,2402,2399,0
+#292,IM Nataliya Buksa,2401,2221,2306
+#293,IM Lawrence Trent,2401,2428,2474
+#294,IM Roberto Molina,2400,2433,2432
+#295,IM Almira Skripchenko,2395,2214,2298
+#296,GM Monika Socko,2393,2254,2270
+#297,IM Anastasia Bodnaruk,2392,2236,2393
+#298,WGM Tania Sachdev,2392,2318,2280
+#299,WGM Deysi Cori T,2391,2300,2341
+#300,IM Konstantin Kavutskiy,2390,2409,2327
+#301,IM Irina Bulmaga,2390,2227,2184
+#302,IM Kulkarni Bhakti,2388,2282,2224
+#303,IM Gulnar Mammadova,2387,2383,2255
+#304,GM Hoang Thanh Trang,2383,2336,2364
+#305,WIM Vantika Agrawal,2381,1841,2075
+#306,IM Irine Kharisma Sukandar,2378,2411,2293
+#307,WGM Betul Cemre Yildiz Kadioglu,2368,2365,2253
+#308,IM Jovanka Houska,2365,2317,2345
+#309,GM Vlastimil Hort,2362,2457,2364
+#310,IM Eric Rosen,2356,2365,2362
+#311,IM Nazi Paikidze,2354,2402,2314
+#312,IM Marina Brunello,2352,2316,2328
+#313,GM Peng Zhaoqin,2350,0,2133
+#314,IM Padmini Rout,2350,2277,2181
+#315,WGM Laura Unuk,2346,2166,2221
+#316,G Khavsky,2345,0,0
+#317,WGM Gulrukhbegim Tokhirjonova,2335,2330,2236
+#318,IM Levy Rozman,2334,2284,2376
+#319,IM Carolina Lujan,2334,2349,2275
+#320,WGM Keti Tsatsalashvili,2331,2147,2246
+#321,FM Mike Klein,2326,0,0
+#322,IM Anna Rudolf,2325,0,0
+#323,WGM Jennifer Shahade,2322,0,2294
+#324,IM Klaudia Kulon,2319,2204,2281
+#325,WGM Tatev Abrahamyan,2311,0,2352
+#326,Kevin Bordi,2288,0,0
+#327,IM Rusudan Goletiani,2278,0,0
+#328,GM Nona Gaprindashvili,2270,2199,2105
+#329,WGM Dina Belenkaya,2264,2151,2196
+#330,WGM Turkan Mamedjarova,2264,2224,2226
+#331,FM Jennifer Yu,2257,1898,1936
+#332,FM Luis Fernandez Siles,2229,2231,2212
+#333,WGM Nemo Qiyu Zhou,2218,0,1925
+#334,WFM Julia Alboredo,2216,1890,2041
+#335,FM Maria Eizaguerri Floris,2215,1817,2032
+#336,WGM Sabina-Francesca Foisor,2208,2322,2243
+#337,NM James Canty,2198,0,0
+#338,FM Tanitoluwa Adewumi,2190,0,0
+#339,WFM Alessia Santeramo,2160,2055,2058
+#340,WIM Gabriela Vargas,2152,2075,2071
+#341,NM Sam Copeland,2132,0,0
+#342,FM Sravan Renjith,2127,1733,1863
+#343,Peter Doggers,2116,0,0
+#344,NM Sean Senft,2089,0,1881
+#345,WFM Jemal Ovezdurdiyeva,2061,1924,1946
+#346,WFM Anna Cramling Bellon,2057,1874,1905
+#347,WFM Maria Emelianova,2049,2079,2102
+#348,WFM Alexandra Botez,2020,0,2059
+#349,CM David Zhurbinsky,1996,0,0
+#350,WFM Lile Koridze,1977,1961,1978
+#351,Antonio Radic,1950,1919,1889
+#352,WIM Jesse Nikki February,1872,1839,1824
+#353,Bartosz Rudecki,1846,1892,1806
+#354,Frank Johnson,1824,0,1868
+#355,Andrea Botez,1676,0,1763
+#356,WGM Tuduetso Sabure,1663,1831,1873
+#357,WCM Phiona Mutesi,1623,0,0
